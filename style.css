@@ -1,0 +1,10 @@
+
+/* para cambiar el color del encabezado de la pagina*/
+#rojo{
+    color: red;
+    text-align: center;
+}
+/* para cambiar el color del fondo de la pagina*/
+#negrou{
+    background-color: beige;
+}
